@@ -1,4 +1,4 @@
-# Portfolio
+# PORTFOLIO
 
 # Dinesha Lakmali Kodagoda 
 ### Software Tester
@@ -16,15 +16,47 @@ While I have begun to explore automation testing, my primary passion remains in 
 I am driven by a continuous desire to learn and improve, always seeking new ways to enhance my testing strategies and ensure that the software I work on is not only functional but also user-friendly and reliable.
 
 #
-#### Skills
-+ Manual Testing
-+ 
-+ Automation testing
-
-#
 #### 1. Generic shop by Test Army
 <a href="https://skleptest.pl/my-account/">Test Web Application</a>  
 
 <a href="https://docs.google.com/spreadsheets/d/1s5UlzE5s2LgO2agn7-N_VF295vJgozG9N673XyoU-ns/edit?gid=0#gid=0"> Sample Test cases </a> 
 
 <a href="https://docs.google.com/spreadsheets/d/1Uu0P36YRS9cvtmxMsmgVhtFKRMckHLRoEBqhnTkC9sI/edit?gid=0#gid=0"> Sample Bug report </a>
+
+<a href="https://docs.google.com/document/d/1mRcQ1QucBYnJuGO4udrrJy2xL6rFMkgJkfG0wWPvkPA/edit#heading=h.13bj0spcy8tg">Sample Test Plan</a>
+
+#
+#### Courses I follow:
++ ISTQB foundation level certification
++ <a href="https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/learn/lecture/29132852?start=75#overview">Selenium WebDriver with Java -Basics to Advanced+Frameworks </a>
+
+#
+#### Tools
++ JIRA: Issue tracking and project management.
++ Selenium: Test automation for web applications.
++ Postman: API testing and development.
++ Eclipse: Widely used for Java development and plugin-based architecture.
++ Vs Code: open-source code editor.
++ Visual Studio : Comprehensive IDE for .NET and C++ development.
++ Chrome DevTools : for bug identification and analysis(debugging).
+#
+#### Technical Skills
++ Manual Testing: Test case creation, functional, integration, and regression testing.
++ Automation Basics: Selenium with Java and C#.
++ Programming: Proficient in Java, C#, .Net, Python.
++ Documentation: Detailed test plans, test cases, and defect reports.
++ Collaboration: Effective communication with cross-functional teams.
++ Continuous Learning: Passionate about enhancing automation skills and staying updated with industry trends.
+
+#
+#### Soft Skills:
++ Attention to Detail
++ Analytical Thinking
++ Communication Skills
++ Problem-Solving
++ Time Management
++ Adaptability
++ Collaboration
++ Empathy
++ Critical Thinking
++ Patience and Persistence
